@@ -1,0 +1,43 @@
+;Conf file
+[quad_coordinates]
+p1X=0
+p1Y=0
+
+p2X=100
+p2Y=200
+
+p3X=625
+p3Y=486
+
+p4X=0
+p4Y=0
+
+
+[line_coordinates]
+p1X = 300
+p1Y = 125
+P2X = 800
+P2Y = 110
+
+;hight shoud be less than 1
+hight = .5
+
+
+
+
+
+[line_coordinates1]
+p1X1 = 1000
+p1Y1 = 150
+P2X1 = 1700
+P2Y1 = 800
+
+;hight shoud be less than 1
+hight1 = .5
+
+
+[object_inside]
+object = car
+
+[object_line]
+object = person
