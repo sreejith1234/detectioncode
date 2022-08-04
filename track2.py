@@ -32,7 +32,7 @@ isThreadBusy = False
 
 audio_yes = 'audio/yes.wav'
 audio_okay = 'audio/okay.wav'
-audio_invalid = 'audio/beep.wav'
+audio_invalid = 'audio/beep-04.wav'
 
 def play_audio(audioFile):
     chunk = 1024
